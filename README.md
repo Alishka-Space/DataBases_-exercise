@@ -1,1 +1,1 @@
-# DataBases_-exercise
+# DataBases_exercises
